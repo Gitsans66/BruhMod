@@ -1,0 +1,8 @@
+type: Wall
+health: 4600
+size: 2
+requirements: [
+  tenium/24 
+]
+category: defense
+research: goldWall
