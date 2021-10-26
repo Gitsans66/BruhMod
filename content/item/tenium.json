@@ -1,0 +1,9 @@
+{
+	"type": "material", 
+	"name": "Tenium", 
+	"description": "tenium used  in items to prevent distorion", 
+	"hardness": 3,
+	"cost": 2.0,
+	"color": "5BB3FF",
+	"tier": 2
+} 
